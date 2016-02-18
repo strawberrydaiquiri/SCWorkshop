@@ -1,0 +1,2 @@
+# SCWorkshop
+Software Carpentry Workshop
